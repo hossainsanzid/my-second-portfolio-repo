@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+/* common thing */
+.btn:hover{
+    background-color: blue;
+}
+/* header section style */
+header{
+    background-image: url("../Assets/Hero-bg.png");
+    height: 698px;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0;
+    margin: 0 100px;
+}
+.logo{
+    font-size: 45px;
+    font-weight: 800;
+    color: #2923e4;
+    line-height: 150%;
+}
+.btn{
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    padding: 12px 36px;
+    border-radius: 10px;
+}
+.nav-title{
+    text-align: center;   
+    margin: 130px 150px;
+}
+.title{   
+    font-size: 65px;
+    font-weight: bold;
+    line-height: auto;
+}
+.title-btn{
+    margin-top: 45px;
+}
