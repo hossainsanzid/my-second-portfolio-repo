@@ -107,3 +107,44 @@ header{
     color: #4E47FF;
     font-family: "Inter", sans-serif;
 }
+/* user comments section style part */
+.heading-user{
+    text-align: center;
+    font-size: 43px;
+    font-weight: bold;
+    line-height: auto;
+}
+.users-comments{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 200px;
+    gap: 20px;
+}
+.div-1{
+    padding: 24px;
+    border-radius: 14px;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);
+}
+.div-img{
+    margin: 20px 24px;
+}
+.users-description{
+    margin-left: 24px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.reviewer-detailse{
+    display: flex;
+    margin: 24px;
+    gap: 10px;
+    align-items: center;
+}
+.name{
+    font-size: 17px;
+}
+.date{
+    font-weight: 150;
+}
+.photo{
+    border-radius: 25px;
+}
