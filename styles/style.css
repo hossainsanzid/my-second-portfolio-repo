@@ -148,3 +148,14 @@ header{
 .photo{
     border-radius: 25px;
 }
+/* focus section style */
+.text{
+    text-align: center;
+    padding: 71px 150px;
+}
+.wc-photo{
+    display: block;
+    margin: 0 auto;
+    border-radius: 48px;
+    margin-top: 20px;
+}
