@@ -159,3 +159,36 @@ header{
     border-radius: 48px;
     margin-top: 20px;
 }
+/* touch section style */
+.section-six{
+    max-width: 870px;
+    margin: 0 auto;
+}
+.mini-box input[type="text"], input[type="email"], input[type="text"], textarea{
+    display: block;
+    margin-bottom: 8px;
+    padding-right: 50px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    text-align: left;  
+    resize: none;
+}
+.bold-text{
+    font-size: 97px;
+    font-weight: bold;
+    line-height: 130%;  
+}
+.content-one{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    padding: 71px 0;
+}
+.label-one{
+    font-size: 18px;
+    font-weight: medium;
+    line-height: 120%;
+    margin-bottom: 5px;
+}
+  
